@@ -9,7 +9,11 @@ Task:  Write a program, using functions only, with the following features.
 Sample input (file): 
 Double bubble deep in the sea of tooth with teeth and meet with riddle. 
 Sample output: 
+
 bb	1
+
 ee	3
+
 oo	1
+
 dd	1
